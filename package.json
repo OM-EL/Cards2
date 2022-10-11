@@ -1,0 +1,37 @@
+{
+  "name": "card-preview",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@react-spring/three": "9.3.0",
+    "@react-three/drei": "7.16.8",
+    "@react-three/fiber": "7.0.17",
+    "@types/three": "0.133.1",
+    "@use-gesture/react": "10.1.1",
+    "leva": "0.9.14",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "4.0.3",
+    "three": "0.133.1",
+    "zustand": "3.5.14"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.20",
+    "@types/react-dom": "17.0.9",
+    "typescript": "4.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
